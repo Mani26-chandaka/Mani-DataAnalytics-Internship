@@ -1,2 +1,2 @@
 # Mani-DataAnalytics-Internship
-“Internship deliverables for ApexPlanet Data Analytics program”
+“Internship deliverables for Data Analytics program”
